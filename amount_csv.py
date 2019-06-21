@@ -2,7 +2,7 @@
 """
 Created on Sun Nov 26 11:29:43 2017
 
-@author: yusuke.kawarabayashi
+@author: kawarayu
 """
 from datetime import datetime
 
